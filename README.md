@@ -1,4 +1,4 @@
-# oceanic-next-vim-iterm
+# Oceanic-Next-vim.itermcolors
 
 This is an iTerm2 color scheme based on [Oceanic-Next.vim](https://github.com/mhartington/oceanic-next).
 
